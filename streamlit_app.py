@@ -75,6 +75,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
 }
+
     labels[0]:{ "texts":["고양이는 사람과 함께 사는 대표적인 반려동물로, 부드러운 털과 독립적인 성격을 가지고 있습니다."]},
     labels[1]:{ "texts":["살쾡이는 한국에 서식하는 야생 고양잇과 동물로, 집고양이보다 크고 사냥 능력이 뛰어납니다."]},
     labels[2]:{ "texts":["스라소니는 북반구의 숲에 사는 중형 고양잇과 맹수로, 귀 끝의 검은 술과 두꺼운 겨울털로 잘 알려져 있습니다."]},
