@@ -78,10 +78,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
               "videos":["https://m.youtube.com/watch?v=uEgceN9gLqU&pp=ygUJ6rOg7JaR7J20"],
               "images":["https://i.namu.wiki/i/d1A_wD4kuLHmOOFqJdVlOXVt1TWA9NfNt_HA0CS0Y_N0zayUAX8olMuv7odG2FiDLDQZIRBqbPQwBSArXfEJlQ.webp"]},
     labels[1]:{ "texts":["살쾡이는 한국에 서식하는 야생 고양잇과 동물로, 집고양이보다 크고 사냥 능력이 뛰어납니다."],
-              "videos":["https://m.youtube.com/watch?v=L20NmyLPEYA&pp=ygUJ7IK07L6h7J200gcJCQMKAYcqIYzv"]
+              "videos":["https://m.youtube.com/watch?v=L20NmyLPEYA&pp=ygUJ7IK07L6h7J200gcJCQMKAYcqIYzv"],
               "images":["https://i.namu.wiki/i/X6lTEW9Vmemf1RC9cFlZnXCzU8xvkoyOM_HO0zC_tztyPNmn-ZZVG7RsCG5-fu1MSQBGVnzGK7ksRW9aD8i8Rw.webp"]}, 
     labels[2]:{ "texts":["스라소니는 북반구의 숲에 사는 중형 고양잇과 맹수로, 귀 끝의 검은 술과 두꺼운 겨울털로 잘 알려져 있습니다."],
-              "videos":["https://m.youtube.com/watch?v=yR9p0gzPq2M&pp=ygUM7Iqk65287IaM64uI"]
+              "videos":["https://m.youtube.com/watch?v=yR9p0gzPq2M&pp=ygUM7Iqk65287IaM64uI"],
               "images":["https://i.namu.wiki/i/QUZmsQdyCxVmwUfZFsE0Ryxun_CRxc9tM2IDM9QU4jKCne40c8e3kIAGdJI_PPzWyfTkFyPf472Wpb1jYne_wg.webp"]},
 }
 
